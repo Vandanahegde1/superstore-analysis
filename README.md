@@ -116,7 +116,7 @@ superstore-analysis/
 ## Author
 
 Vandana Hegde
--  LinkedIn:[Vandana Hegde](www.linkedin.com/in/vandanagh)
+-  LinkedIn:www.linkedin.com/in/vandanagh
 -  GitHub: [Vandanahegde1](https://github.com/Vandanahegde1)
 ---
 
