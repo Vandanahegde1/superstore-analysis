@@ -116,9 +116,8 @@ superstore-analysis/
 ## Author
 
 Vandana Hegde
-- LinkedIn: www.linkedin.com/in/vandanagh
-- GitHub: [your-github](https://github.com/yourusername)
-
+-  LinkedIn:[Vandana Hegde](www.linkedin.com/in/vandanagh)
+-  GitHub: [Vandanahegde1](https://github.com/Vandanahegde1)
 ---
 
 *This project was built as part of a 7-day data analytics challenge.*
