@@ -1,7 +1,7 @@
-🛒 Superstore Sales Analysis — SQL + Power BI Dashboard
+Superstore Sales Analysis — SQL + Power BI Dashboard
 A complete end-to-end data analytics project using the Superstore dataset, featuring SQL analysis and a 3-page interactive Power BI dashboard.
 ---
-📁 Project Structure
+ Project Structure
 ```
 superstore-analysis/
 │
@@ -19,7 +19,7 @@ superstore-analysis/
 └── README.md
 ```
 ---
-📊 Dashboard Pages
+ Dashboard Pages
 Page 1 — Sales Dashboard
 Total Sales: $2.30M | Total Orders: 9,994 | Products: 1,862 | Customers: 793
 Visuals: Sales by Segment, Sales by Category, Sales by State (Map), Sales per Year
@@ -33,7 +33,7 @@ Total Customers: 793 | Avg Order Value: $458.63 | Total Orders: 9,994
 Visuals: Sales by Segment, Orders by Ship Mode (Donut), Top 10 Customers table
 Key Insight: Standard Class dominates shipping at 58.76%
 ---
-🗄️ SQL Queries Covered
+ SQL Queries Covered
 Basic Queries
 Query	Description
 Total Sales per Year	Revenue trend across 2014–2017
@@ -55,32 +55,33 @@ Declining Sales Products	CTE, LAG() window function
 Top Product in Each Category	CTE, ROW_NUMBER() window function
 Profit Ratio by Category	Aggregation, percentage calculation
 ---
-💡 Key Insights
+ Key Insights
 Sales grew 47% from 2014 to 2017 — Consistent year-over-year growth shows strong business expansion.
 Technology is the most profitable category — Leads profit at $0.15M while Furniture barely breaks even at $0.02M.
 West region leads in profit — West tops at $108K, Central is the weakest at $40K.
 Consumer segment dominates sales — Accounts for $1.16M, nearly double Corporate ($0.71M).
 Standard Class is the preferred shipping mode — Nearly 60% of orders use it, showing customers prefer cost over speed.
 ---
-📌 Business Recommendations
+ Business Recommendations
 Reduce discounts on Furniture — Heavy discounting is hurting margins. Focus on higher-margin products.
 Invest more in West + Technology — This is the most profitable combination. Increase marketing and inventory focus here.
 ---
-🛠️ Tools Used
+ Tools Used
 Tool	Purpose
 PostgreSQL	Data storage and SQL analysis
 Power BI	Dashboard and data visualization
 CSV / Excel	Raw data source
 GitHub	Portfolio hosting
 ---
-📂 Dataset
+ Dataset
 Source: Kaggle — Superstore Dataset
 Records: 9,994 rows
 Fields: 22 columns
 ---
 👤 Author
 Your Name
-LinkedIn: your-linkedin
+Vandana Hegde
+LinkedIn:www.linkedin.com/in/vandanagh
 GitHub: your-github
 ---
 This project was built as part of a 7-day data analytics challenge.
