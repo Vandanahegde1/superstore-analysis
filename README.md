@@ -41,7 +41,6 @@ Three pages:
 
 **Page 3 — Customer Analysis**: Total Customers (793), Avg Order Value ($458.63), Total Orders (9,994); Sales by Segment, Orders by Ship Mode (donut), and a Top 10 Customers table.
 
-[Screenshot or link to dashboard]
 
 ## A Note on Methodology
 The SQL analysis was intentionally split across two tiers — basic aggregation (sales by year, category, region, ship mode) and advanced window-function queries (best performing month via `RANK()`, second-highest customer via `DENSE_RANK()`, declining products via `LAG()`, top product per category via `ROW_NUMBER()`) — to answer not just "what happened" but "what changed" and "who's near the top but not quite there," which flat aggregation alone can't surface.
